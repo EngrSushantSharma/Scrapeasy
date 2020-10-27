@@ -2,13 +2,13 @@ from setuptools import setup
 setup(
   name = 'scrapeasy',
   packages = ['scrapeasy'],
-  version = '0.12',
+  version = '0.13',
   license='MIT',
   description = 'Scraping in python made easy - receive the content you like in just one line of code!',
   author = 'Sushant Sharma',
   author_email = 'engr.sushant.sharma@gmail.com',
   url='https://github.com/EngrSushantSharma/Scrapeasy',
-  download_url='https://github.com/EngrSushantSharma/Scrapeasy/scrapeasy-0.12.tar.gz',
+  download_url='https://github.com/EngrSushantSharma/Scrapeasy/scrapeasy-0.13.tar.gz',
   keywords = ['scraping', 'easy', 'scraper', 'website', 'download', 'links', 'images', 'videos'],
   install_requires=[
           'validators',

@@ -8,7 +8,7 @@ setup(
   author = 'Sushant Sharma',
   author_email = 'engr.sushant.sharma@gmail.com',
   url='https://github.com/EngrSushantSharma/Scrapeasy',
-  download_url='https://github.com/EngrSushantSharma/Scrapeasy/archive/pypi-0_1_3.tar.gz',
+  download_url='https://github.com/EngrSushantSharma/Scrapeasy/scrapeasy-0.12.tar.gz',
   keywords = ['scraping', 'easy', 'scraper', 'website', 'download', 'links', 'images', 'videos'],
   install_requires=[
           'validators',

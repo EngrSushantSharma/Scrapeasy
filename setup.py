@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 setup(
   name = 'scrapeasy',
   packages = ['scrapeasy'],
@@ -13,6 +13,7 @@ setup(
   install_requires=[
           'validators',
           'beautifulsoup4',
+          'wheel',
       ],
   classifiers=[  # Optional
     # How mature is this project? Common values are

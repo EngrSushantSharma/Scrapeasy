@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+scrapeasy/Page.py
+scrapeasy/WebData.py
+scrapeasy/Website.py
+scrapeasy/__init__.py
+scrapeasy.egg-info/PKG-INFO
+scrapeasy.egg-info/SOURCES.txt
+scrapeasy.egg-info/dependency_links.txt
+scrapeasy.egg-info/requires.txt
+scrapeasy.egg-info/top_level.txt
